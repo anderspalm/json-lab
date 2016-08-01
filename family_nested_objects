@@ -1,0 +1,31 @@
+{
+	"family": [
+		{
+			"name": "Adelaida",
+			"age": "50s",
+			"quality": "Can get along with anyone",
+			"appearance": {
+				"eyes": "brown",
+				"hair": "black"
+			}
+		},
+		{
+			"name": "Gunnar",
+			"age": "50s",
+			"quality": "Serious",
+			"appearance": {
+				"eyes": "blue",
+				"hair": "brown"
+			}
+		},
+		{
+			"name": "Adelaida",
+			"age": "50s",
+			"quality": "Can get along with anyone",
+			"appearance": {
+				"eyes": "brown",
+				"hair": "brown"
+			}
+		}
+	]
+}

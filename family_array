@@ -1,0 +1,24 @@
+{"family_members":
+	[
+        {
+    	"name": "Adelaida",
+    	"age": "50s",
+    	"quality": "Talkative",
+    	"appearance":{ "eyes":"brown", "hair":"long" }
+    	},
+        {
+		"name": "Gunnar",
+		"age": "50s",
+		"quality": "Serious",
+		"appearance":{ "eyes":"blue", "hair":"short" }
+		},
+		{
+		"name": "Ian",
+		"age": "27",
+		"quality": "Can get along with anyone",
+		"appearance":{ "eyes":"brown", "hair":"short" }
+		}
+		
+	]
+}
+
